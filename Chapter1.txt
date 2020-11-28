@@ -1,1 +1,1 @@
-This is the first chapter in the 2nd story. 
+This is the first chapter in the 2nd story which is now on the experimental branch. 
